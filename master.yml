@@ -1,0 +1,6 @@
+---
+- name: Install Nexus
+  hosts: demo
+  become: true
+  roles:
+    - install_nexus
