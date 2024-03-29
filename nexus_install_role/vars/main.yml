@@ -1,0 +1,4 @@
+---
+nexus_version: 3.66.0-02
+java_package: java-1.8.0-amazon-corretto-devel
+java_package_ubuntu: openjdk-8-jdk
